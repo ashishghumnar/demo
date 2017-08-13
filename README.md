@@ -59,5 +59,5 @@ Branching
 			HEAD last comit of branch
 			
 			
--Update Branching..
+-Changin at same place
 			
