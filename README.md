@@ -49,3 +49,15 @@ Branching
 										   |                                     |
 										   |                                     |
 										   ||<-----------<--<--| Merge back to master
+										
+										
+	Merge Type
+		Fast Forward Merge
+			Simplest Case if no additional changes on master branch
+			
+			automatic merge
+			HEAD last comit of branch
+			
+			
+-Update Branching..
+			
